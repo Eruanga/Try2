@@ -1,0 +1,1 @@
+web: gunicorn ella_besiru.wsgi
