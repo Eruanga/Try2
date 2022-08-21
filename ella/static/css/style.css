@@ -1,4 +1,4 @@
-.img-fluid{
+        .img-fluid{
 
            margin-top: 2em;
            width: 1674px;
@@ -9,7 +9,8 @@
          background-color:white;
          color:#575774;
          text-align: justify;
-         font-family: "Manrope"
+         font-family: "Manrope";
+         background: url("../images/background1.jpeg") 50% 0 no-repeat fixed;
         }
 
         h1{
